@@ -11,31 +11,22 @@ https://macpaw.com/the-unarchiver <br/>
 <p align="center">
 Open Unarchiver and go to the Archive Formats tab <br/>
   
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XAbSOh8.jpeg" height="80%" width="80%" alt="unarchiver screen"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Select the check boxes for “Gzip File” and “Gzip Tar Archive”  <br/>
+<img src="https://i.imgur.com/36jXpL4.jpeg" height="80%" width="80%" alt="select checkboxes"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open finder <br/>
+<img src="https://i.imgur.com/1hNbaB6.jpeg" height="80%" width="80%" alt="open finder"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Go to .gz file and double click to extract the contents.   <br/>
+<img src="https://i.imgur.com/jfEny4I.jpeg" height="80%" width="80%" alt="double click file"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Your contents should be extracted !!!!  <br/>
 </p>
 
 <!--
